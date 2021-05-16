@@ -2,15 +2,10 @@
 
 Hackathon Flutter Project
 
-## Getting Started
+This is an app prototype written using the flutter framework. It's purpose is
+to connect people through drinking water. Users will connect with friends
+on the platform and share their water drinking goals. They can then compete to
+be at the top of the Liter(Leader) Board.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can find a demo of the app being run on youtube here:
+https://youtu.be/7Sd4XRyWF4g
